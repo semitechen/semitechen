@@ -26,6 +26,6 @@ You can reach out to me via email at kapijelonek@gmail.com or connect with me on
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_NEW_USERNAME&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=transparent" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NEW_USERNAME&hide_title=true&hide_border=true&layout=compact&theme=transparent" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=semitechen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=transparent" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semitechen&hide_title=true&hide_border=true&layout=compact&theme=transparent" width="48%" alt="Top Languages" />
 </div>
