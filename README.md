@@ -22,10 +22,3 @@ I am an embedded systems developer studying Microelectronics in Industry and Med
 
 ### Let's Connect
 You can reach out to me via email at kapijelonek@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/kacper-jelonek-14b9763b7/).
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=semitechen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=transparent" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semitechen&hide_title=true&hide_border=true&layout=compact&theme=transparent" width="48%" alt="Top Languages" />
-</div>
